@@ -1,8 +1,3 @@
-# gopool
-a goroutine pool
-
-# example
-```golang
 package main
 
 import (
@@ -19,4 +14,3 @@ func main() {
 		})
 	}
 }
-```
