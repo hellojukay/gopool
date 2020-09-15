@@ -1,5 +1,5 @@
 # gopool
-a goroutine pool
+an extremely simple goroutine pool
 
 # example
 ```golang
