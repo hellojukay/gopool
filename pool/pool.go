@@ -1,8 +1,5 @@
 package pool
 
-import (
-	"sync"
-)
 
 // New create a goroutine pool
 func New(size int) Pool {
